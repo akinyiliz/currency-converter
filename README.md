@@ -2,6 +2,10 @@
 
 This web application allows users to convert currencies quickly and easily. It utilizes data from the [Currency Exchange Rates API](https://github.com/fawazahmed0/exchange-api) to provide accurate and up-to-date exchange rates.
 
+## Preview
+
+![Currency Converter Preview](./src/assets/currency-converter-preview.png)
+
 ## Features
 
 - Convert between various currencies.
